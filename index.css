@@ -1,0 +1,35 @@
+.elem1 {
+    background-color: aqua;
+    height: 1010%;
+    width: 5rem;
+    margin: 3rem;
+    text-align: center;
+    padding: 2rem;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+
+th {
+    font-weight: bold;
+    background-color: #fff6ce;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+td:hover {
+    background: grey;
+}
