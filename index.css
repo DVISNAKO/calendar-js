@@ -33,3 +33,9 @@ h4 {
 td:hover {
     background: grey;
 }
+
+/* clock */
+
+#clock{
+    font-size: 36px;
+}
